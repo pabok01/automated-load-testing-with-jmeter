@@ -78,7 +78,7 @@ jmeter -g results/*.jtl -o reports/compare/ --jmeterproperty reportgenerator.com
 - Slight increase in error rate and latency beyond 3000 concurrent users.
 - Authentication flow remains stable across all test loads.
 
-📌 Contributor: MD. Abdul Alim
+📌 Contributor: Pabok Datta
 - 📅 Last Updated: 21 July, 2025
 
 ### Key Features:
